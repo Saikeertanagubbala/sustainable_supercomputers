@@ -1,0 +1,192 @@
+country,total_data_centers,hyperscale_data_centers,colocation_data_centers,floor_space_sqft_total,power_capacity_MW_total,average_renewable_energy_usage_percent,internet_penetration_percent,growth_rate_of_data_centers_percent_per_year,cooling_technologies_common
+United States,5426,300,2000,3552000000,12000,27,92,12,"Air, Liquid, Immersion"
+Germany,529,50,200,350000000,2000,40,92,8,"Air, Indirect Evap."
+United Kingdom,523,30,150,200000000,1000,0.45,96,7,"Air, Free Cooling"
+China,449,100,1000,500000000,8000,0.25,76,15,"Air, Liquid"
+France,322,20,110,120000000,700,40,91,6,"Air, Liquid"
+Canada,336,15,100,90000000,500,0.78,96,9,"Air, Liquid, Free Cooling"
+Australia,314,20,80,40000000,1200,0.3,96,10,"Air, Liquid, Free Cooling"
+Netherlands,298,15,90,35000000,700,0.9,96,8,"Air, Liquid, Free Cooling"
+Russia,251,10,60,20000000,400,0.15,85,6,"Air, Liquid"
+Japan,222,20,80,50000000,1000,0.25,94,7,"Air, Liquid, Immersion"
+Brazil,196,10,100,20000000,800,0.25,82,12,"Air, Liquid"
+Singapore,99,15,60,30000000,500,0.95,92,6,"Liquid, Air, Immersion"
+South Africa,61,5,30,10000000,200,0.3,72,10,"Air, Liquid"
+India,99,10,50,50000000,400,0.15,56,18,"Air, Liquid"
+Mexico,173,8,32,14000000,300,45,72,14,"Air, Liquid"
+Sweden,95,6,40,12000000,250,0.98,96,8,"Air, Liquid, Free Cooling"
+Indonesia,84,3,30,8000000,150,0.2,69,15,"Air, Liquid"
+Spain,143,5,50,10000000,200,0.35,93,7,"Air, Liquid, Free Cooling"
+Poland,144,4,40,8000000,120,0.25,87,9,"Air, Liquid"
+Switzerland,121,5,30,7000000,110,0.8,97,7,"Air, Liquid, Free Cooling"
+Afghanistan,2,0,2,10000,1270,50,18,,
+Albania ,3,0,3,71100,2730,100,86,6,
+Algeria,5,0,5,18300,150,60,24,8,
+Andorra,1,0,1,1830,20,,95.5,7,
+Angola,4,0,4,108300,90,,61.9,15,
+Antigua and Barbuda,1,0,1,5000,10,,78,,
+Argentina,34,0,34,721000,100,,87.4,10,
+Armenia,6,0,6,26748,60,,75.9,12,
+Austria,68,0,68,720000,450,,91.2,5,
+Azerbaijan,3,0,3,18534,60,,79.8,7,
+Bahamas,3,0,3,40000,20,,95,,
+Bahrain,5,0,5,129000,110,,98,10.7,
+Bangladesh,20,0,16,300000,180,,75,30,
+Barbados,3,0,3,40000,30,,80,,
+Belarus,6,0,6,882641,200,,91,8,
+Belgium,32,0,32,1245085,300,,96,4,
+Belize,1,0,1,5000,15,50,50,,
+Benin,4,0,4,12000,8,40,32,,
+Bhutan,3,0,3,2500,20,,88.4,,
+Bolivia,3,0,3,137800,90,,75,10,
+Bosnia and Herzegovina,2,0,2,11711,10,,87,,
+Botswana,5,0,5,35200,,,82,10,
+Brunei,1,0,1,51000,,,97,15,
+Bulgaria,27,0,27,1245085,,,88,4,
+Burkina Faso,3,0,3,281991,,,34,10,
+Burundi,2,0,2,6308,,,10,,
+Cambodia,5,0,5,206000,,,98,12,
+Cameroon,2,0,2,14234,,,40,8,
+Cape Verde,1,0,1,,,,72,,
+Central African Republic,0,0,0,,,,,,
+Chad,2,0,2,20000,,,13,5.8,
+Chile,31,0,31,720630,,,92,7,
+Colombia,31,0,31,720630,,,92,7,
+Comoros,1,0,1,,,,27,,
+"Congo, Democratic Republic of the",2,0,2,27878,,,25,10,
+"Congo, Republic of the",2,0,2,3710,,,30,8,
+Costa Rica,10,0,10,292761,,,95,10,
+Côte d’Ivoire,5,0,5,146763,,,38,12,
+Croatia,18,0,18,101756,,,90,5,
+Cuba,1,0,1,,,,68,,
+Cyprus,2,0,2,13000,,,95,8,
+Czechia,36,0,36,355000,,,92,6,
+Denmark,42,0,42,1100000,,,99,9.5,
+Djibouti,1,0,1,,,,65,10,
+Dominica,1,0,1,,,,83,,
+Dominican Republic,1,0,1,2404,,,74,7,
+Ecuador,7,0,4,32500,5,32.5,84,400,"Air cooling, some energy-efficient"
+Egypt,7,0,4,32500,5,32.5,82,8.5,"Air cooling, some energy-efficient"
+El Salvador,3,0,3,22500,3,25,77,6.5,Air cooling
+Equatorial Guinea,1,0,1,7500,1,12,45,300,Air cooling
+Eritrea,1,0,1,6000,1,10,40,200,Air cooling
+Estonia,12,1,7,65000,20,45,88,800,Air and liquid cooling
+Eswatini,2,0,1,8000,1,10,32,300,Air cooling
+Ethiopia,2,0,2,12000,3,15,25,400,Air cooling
+Fiji,2,0,1,7000,1,20,55,300,Air cooling
+Finland,25,4,15,120000,90,60,94,1200,Air and liquid cooling
+Gabon,3,0,2,10000,3,15,40,400,Air cooling
+Gambia,2,0,1,7000,1,12,35,300,Air cooling
+Georgia,8,0,7,695000,20,82,82,12.5,"Air-economizer, precision AC, evaporative cooling"
+Ghana,7,0,6,40000,15,70,70,1000,"Air cooling, precision AC, diesel backup"
+Greece,15,1,15,250000,57,82,82,1400,"Air cooling, precision AC, economizers"
+Grenada,0,0,0,0,0,74,74,500,"Air cooling, small precision AC"
+Guatemala,5,0,5,40000,5,70,70,600,"Air cooling, precision AC, generators"
+Guinea,1,0,1,10000,1,33.9,33,800,"Air cooling, precision AC, generators"
+Guinea-Bissau,0,0,0,0,0,32.5,32,300,"Air cooling, small precision AC"
+Guyana,0,0,0,0,0,37,37,1500,"Air cooling, small precision AC, satellite backup"
+Haiti,0,0,0,0,0,39,39,800,"Air cooling, small precision AC, satellite backup"
+Honduras,4,0,4,10000,2,66,66,800,"Air cooling, precision AC, generators"
+Hungary,19,0,19,150000,80,25,89,480,"Air cooling, precision AC, economizers, microgrids"
+Iceland,3,0,3,64583,200,100,100,1200,"Ambient free cooling, precision AC, geothermal exchange"
+Iran,20,0,20,50000,50,25,85,710,"Air cooling, precision AC, generators, modular setups"
+Iraq,4,0,4,20000,12,79,79,710,"Air cooling, precision AC, generators, modular setups"
+Ireland,80,0,37,150000,710,69,89,410,"Air cooling, precision AC, economizers, on-site batteries/gas gen"
+Israel,31,0,31,500000,250,12,89,1300,"Air cooling, precision AC, economy chillers, N+1 redundancy, microgrids"
+Italy,168,12,52,3940000,513,41,61,3000,"Air cooling, precision AC, economizers, microgrids, closed‑loop & liquid cooling"
+Jamaica,2,0,2,13000,3,46,46,500,"Air cooling, small precision AC, seawater cooling pilot"
+Jordan,4,0,4,30000,15,92,92,700,"Air cooling, precision AC, generators, modular racks"
+Kazakhstan,6,0,6,40000,15,93,93,700,"Air cooling, precision AC, generators, modular racks"
+Kenya,14,0,11,112000,20,41,41,1200,"Air cooling, precision AC, adiabatic/liquid cooling pilots, modular setups"
+Kiribati,0,0,0,0,0,60,60,500,"Satellite (GEO, HTS), early Starlink LEO"
+"Korea, North",0,0,0,0,0,1,200,500,"Satellite and intranet Wi‑Fi (Mirae), 3G/4G intranet"
+"Korea, South",35,6,35,2898200,710,20,93,860,"Air cooling, precision & liquid cooling, economizers, on-site batteries/microgrids"
+Kuwait,35,6,35,2898200,710,20,93,860,"Air cooling, precision & liquid cooling, economizers, on-site batteries/microgrids"
+Kyrgyzstan,1,0,1,10000,2,88.5,88.5,800,"Air cooling, precision AC, generators, modular racks"
+Laos,3,0,2,20000,5,79,79,1000,"Air cooling, precision AC, modular setups, satellite fallback"
+Latvia,25,0,9,270000,120,42,89,650,"Air cooling, precision AC, liquid‑cooling pilots (DEAC), economizers"
+Lebanon,4,0,3,0,0,92,92,800,"Air cooling, satellite fallback, basic 3G/4G rigs"
+Lesotho,2,0,2,3000,1,47,47,8,"Air cooling, basic precision AC, backup generators, modular prefab"
+Liberia,0,0,0,0,0,32,32.4,600,"Air cooling, satellite fallback, CDMA/4G cell, micro-POP hubs"
+Libya,6,0,6,,,88,88,700,"Air cooling, precision AC, generators, modular setups"
+Liechtenstein,5,0,5,4300,2,97,97,500,"Air cooling, precision AC, economizers, underground fiber loops"
+Lithuania,20,0,12,300000,150,76,89,1200,"Air cooling, precision & liquid cooling, economizers, free ambient cooling"
+Luxembourg,16,0,15,300000,150,100,100,1500,"Air cooling, free cooling, biomass cogeneration, waste heat reuse"
+Madagascar,0,0,0,0,0,0,20,0,"Mobile 3G/4G, satellite, Wi-Fi hotspots"
+Malawi,1,0,0,0,0,0,27.7,0,"Mobile 3G/4G, satellite, Wi-Fi hotspots"
+Malaysia,34,0,34,2800000,566,100,81,1300,"Air cooling, liquid cooling, free cooling, solar, battery storage"
+Maldives,1,0,1,0,0,0,84.7,0,"Mobile 3G/4G/5G, fiber, satellite"
+Mali,2,0,2,0,0,0,35.1,0,"Mobile 3G/4G, satellite, Wi-Fi hotspots"
+Malta,3,0,3,0,0,0,93.5,0,"Mobile 3G/4G/5G, fiber, satellite"
+Marshall Islands,0,0,0,0,0,0,73,,"Mobile 2G/3G/4G, satellite"
+Mauritania,1,0,0,0,0,0,37.4,290,"Mobile 3G/4G, fiber, satellite"
+Mauritius,10,0,10,0,0,0,79.5,0,"Mobile 3G/4G/5G, fiber, satellite"
+Micronesia,1,0,0,0,0,0,40.5,0,"Mobile 3G/4G, satellite"
+Moldova,7,0,7,0,0,0,94.3,0,"Mobile 3G/4G/5G, fiber, satellite"
+Monaco,3,0,3,0,0,0,99,0,"Mobile 4G/5G, fiber"
+Mongolia,3,0,3,0,0,0,83,0,"Mobile 3G/4G/5G, fiber, satellite"
+Montenegro,0,0,0,0,0,89.8,89.8,0,"Mobile 4G/5G, fiber, local IXP cache/Satellite fallback"
+Morocco,4,0,4,43000,25,90,90,1120,"Air cooling, precision AC, economizers, solar hybrid pilots"
+Mozambique,7,0,7,22000,7,0,23,1000,"Air cooling, precision AC, satellite & fiber backup"
+Myanmar,5,0,5,18000,4,41,41,725,"Air cooling, precision AC, UPS & generator backup"
+Namibia,2,0,2,12000,2,64.4,64.4,480,"Air cooling, precision AC, UPS/generators, VSAT fallback"
+Nepal,7,0,7,28000,4,50,50,725,"Air cooling, precision AC, UPS/generators, free cooling pilots"
+New Zealand,30,0,30,320000,211,96,96.2,1334,"Air cooling, free cooling, liquid immersion pilots, battery storage support"
+Nicaragua,3,0,3,15000,3,71.3,71.3,610,"Air cooling, in‑row cooling, UPS/gensets, satellite fallback"
+Niger,1,0,1,5000,2,0,150,0,"Air cooling, satellite fallback, basic UPS/gensets"
+Nigeria,17,0,17,430000,137,48.2,48.2,1580,"Air cooling, precision AC, UPS/gensets, VSAT fallback"
+North Macedonia,5,0,5,50000,20,92,92,790,"Air cooling, precision AC, generators, regional free/ambient cooling"
+Norway,26,0,26,3000000,501,98,96.2,1029,"Air cooling, free/fjord cooling, liquid immersion pilots, heat-recovery to district heating, biomass cogeneration"
+Oman,6,0,6,94000,18,95,95.3,1030,"Air cooling, water-chillers, CRAC/CRAH, 5 G-ready infrastructure, UPS/generator backup"
+Pakistan,22,0,22,300000,1367,48.2,48.2,441,"Air cooling, precision CRAC/CRAH, UPS/gensets, carrier-neutral VXLAN, solar + backup generators"
+Palau,0,0,0,0,0,57.5,57.5,1840,"Mobile 4G, VSAT/satellite, upcoming FTTH pilots"
+Panama,8,0,8,30000,10,78,78,1170,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling pilots"
+Papua New Guinea,2,0,2,10000,1,24,24.1,180,"Mobile 3G/4G, satellite VSAT, basic UPS/generators"
+Paraguay,8,0,8,35000,2,83,83,1280,"Air cooling, precision CRAC/CRAH, UPS/gensets, carrier-neutral cache nodes"
+Peru,10,0,10,58000,12,79.5,79.5,1560,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling pilots"
+Philippines,21,0,21,2280000,497,98,98,2080,"Air cooling, precision CRAC/CRAH, UPS/gensets, liquid cooling pilots, green energy initiatives"
+Portugal,10,0,10,326000,48,85.5,85.5,2180,"Air cooling, free cooling, liquid immersion pilots, heat recovery, PPA-backed renewables"
+Qatar,13,0,13,200000,120,99,99,798,"Air cooling, precision CRAC/CRAH, UPS & gensets, AI-optimized cooling pilots, NVidia AI hardware integration"
+Romania,60,0,60,326000,100,92,92,4900,"Air cooling, free cooling via ambient, precision CRAC, generator/UPS backups, heat reuse pilots"
+Rwanda,4,0,4,8000,2,38,38,210,"Air cooling, UPS/gensets, satellite/VSAT fallback"
+Saint Kitts and Nevis,1,0,1,8000,2,,70,,"Air cooling, UPS/gensets, satellite fallback"
+Saint Lucia,1,0,1,8000,2,74,74,20,"Air cooling, UPS/gensets, satellite/VSAT fallback"
+Saint Vincent and the Grenadines,1,0,1,8000,2,77.7,77.7,50,"Air cooling, UPS/gensets, satellite/VSAT fallback"
+Samoa,2,0,2,10000,1,75,75,1060,"Air cooling, UPS/gensets, VSAT/satellite fallback"
+San Marino,1,0,1,5000,1,,50,0,"Air cooling, precision AC, UPS/gensets, fibre‑fed redundancy"
+Sao Tome and Principe,0,0,0,0,0,61.5,61.5,200,"Satellite/VSAT, mobile 3G/4G, basic UPS"
+Saudi Arabia,36,0,36,1380000,345,99,99,1760,"Air cooling, free/fjord cooling, liquid immersion pilots, AI-optimized cooling, UPS/gensets, heat reuse, solar pilots"
+Senegal,3,0,3,35000,12,60.6,60.6,230,"Air cooling, precision AC, UPS/gensets, carrier-neutral CLS locations"
+Serbia,13,0,13,300000,100,88,87.7,510,"Air cooling, CRAC/CRAH, UPS/gensets, free cooling pilots"
+Seychelles,1,0,1,5000,1,87.4,87.4,190,"Air cooling, UPS/gensets, VSAT/satellite fallback"
+Sierra Leone,1,0,1,8000,1,4,130,0,"Air cooling, UPS/gensets, VSAT/fiber fallback, Starlink"
+Slovakia,13,0,13,137674,30,92,92,550,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling pilots"
+Slovenia,21,0,21,137674,30,92,92,700,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling pilots"
+Solomon Islands,1,0,1,8000,1,2,130,400,"Air cooling, UPS/gensets, VSAT/satellite backhaul, eCentre cable module"
+Somalia,11,0,11,35000,10,55.2,55.2,350,"Air cooling, UPS/gensets, solar power, carrier-neutral fiber hubs, VSAT/Starlink fallback"
+South Sudan,1,0,1,8000,1,0,130,800,"Air cooling, UPS/gensets, solar-powered towers, VSAT/Starlink fallback, carrier-neutral fibre hub"
+Sri Lanka,4,0,4,95000,25,90,90,745,"Air cooling, precision CRAC/CRAH, free cooling pilots, upcoming liquid immersion, UPS/gensets"
+Sudan,3,0,3,24000,15,28.7,28.7,160,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup"
+Suriname,1,0,1,10000,1,78.4,78.4,90,"Air cooling, UPS/N+1 generators, HVAC, fire suppression/argon systems, redundant cabling"
+Syria,2,0,2,16000,1,35.8,130,,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup"
+Tajikistan,1,0,1,10000,1,56.8,56.8,90,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup"
+Tanzania,3,0,3,30000,3,36.3,130,400,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup"
+Timor-Leste,1,0,1,10000,1,44.3,130,600,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup"
+Togo,1,0,1,10000,1,37,130,300,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup"
+Tonga,1,0,1,8000,1,58.5,58.5,40,"Air cooling, UPS/gensets, VSAT/Starlink backup, cable landing eCentre module"
+Trinidad and Tobago,5,0,5,60000,15,84.7,84.7,230,"Air cooling, precision CRAC, UPS/gensets, HFC & fiber backbone redundancy"
+Tunisia,6,0,6,180000,60,66.8,66.8,1010,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling, power redundancy pilots"
+Türkiye,32,0,32,320000,120,50,82,650,"Air cooling, precision CRAC/CRAH, free‑cooling, waste‑heat capture pilots, UPS/gensets, emerging liquid immersion/Grid‑PPA renewables"
+Turkmenistan,1,0,1,8000,1,34.9,34.9,190,"Air cooling, UPS/gensets, satellite/VSAT fallback, containerized colocation module"
+Tuvalu,1,0,1,8000,1,5,130,100,"Air cooling, UPS/gensets, VSAT/satellite backhaul, compact containerized eCentre"
+Uganda,6,0,6,30000,8,28,28,780,"Air cooling, precision CRAC, UPS/gensets, solar-powered towers, carrier-neutral fibre, VSAT/Starlink fallback"
+Ukraine,55,0,55,320000,150,82.4,82.4,955,"Air cooling, precision CRAC/CRAH, UPS/gensets, UPS+backup power banks for home routers, free cooling pilots"
+United Arab Emirates,31,1,31,450000,200,60,99,1760,"Air cooling, precision CRAC/CRAH, free cooling, immersion pilots, UPS/battery systems, solar PPAs, heat reuse"
+Uruguay,9,0,9,30000,35,98,90.9,791,"Air cooling, precision CRAC, UPS/gensets, free cooling pilots, hydroelectric green energy tie-ins, UPS-backed FTTH households"
+Uzbekistan,3,0,3,25000,8,98,98,1400,Tier‑III ISP/data‑hub rollouts; some Tier‑IV planning
+Vanuatu,2,0,2,15000,2,35,35,200,"Air cooling, UPS/gensets, VSAT/Kacific/Starlink backup, containerized eCentre modules"
+Venezuela,6,0,6,50000,20,44,44,300,"Air cooling, UPS/gensets, precision AC in modern colos, backup generators, satellite fallback"
+Vietnam,32,1,32,450000,145,80.7,80.7,1790,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling pilots, AI/immersion-led designs, solar PPA pilots"
+Yemen,1,0,1,8000,0,45,130,0,"Air cooling, UPS/gensets, VSAT/Starlink backup, Satcube backup"
+Zambia,2,0,2,15000,3,33,33,629,"Air cooling, UPS/gensets, VSAT/Starlink fallback, carrier-neutral edge modules"
+Zimbabwe,2,0,2,16000,5,3,130,0,"Air cooling, UPS/gensets, precision AC, satellite/Starlink backup"
