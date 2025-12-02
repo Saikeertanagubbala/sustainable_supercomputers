@@ -1,0 +1,5 @@
+ [theme]
+    base="light"
+    backgroundColor="#062237ff"
+    textColor ="#ffffff"
+    secondaryBackgroundColor="darkSeaGreen"

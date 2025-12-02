@@ -1,0 +1,38 @@
+import streamlit as st
+
+def show():
+    st.subheader("Documentation/Dataset Overview")
+    st.markdown("Two complementary datasets procured from Kaggle to explore the intersection of data center infrastructure and environmental performance.")
+    
+    # Dataset 1
+    st.markdown("### 1. Data Center Infrastructure Dataset")
+    st.markdown("""
+    Country-level insights into global data center infrastructure (as of 2025):
+    
+    **Key Features:**
+    - Data center counts (total, hyperscale, colocation).
+    - Power capacity in megawatts (MW).
+    - Average renewable energy usage (%).
+    - Average growth rates.
+    - Internet Penertration (%).
+    """)
+    st.link_button(url="https://www.kaggle.com/datasets/rockyt07/data-center-dataset/data", 
+                 label="Data Center Dataset", icon="🏢")
+    
+    st.markdown("---")
+    
+    # Dataset 2
+    st.markdown("### 2. Green500")
+    st.markdown("""
+    In the Green500 the systems are ranked by how much computational performance they deliver on the HPL benchmark per Watt of electrical power consumed.
+    
+    Data range spans from 2020 - 2025, chosen due to the boom in AI over the past few years, and the need for supercomputing resources to train large language models.
+    \n\n The Green500 list is updated twice a year in June and November. Data was only chosen from November lists to ensure consistency and reduce redundancy.
+    
+    **Key Features:**
+    - 1,161 rows x 19 columns (post-imputation).
+    - Key Infrastructure metrics: number of cores.
+    - Other indicators: power, energy efficiency, processor speed, installation year.
+    
+    """)
+    st.link_button(label="Green500", url="https://top500.org/lists/green500/", icon="🌿")
