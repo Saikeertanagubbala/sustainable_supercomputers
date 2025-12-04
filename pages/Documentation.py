@@ -35,4 +35,4 @@ def show():
     - Other indicators: power, energy efficiency, processor speed, installation year.
     
     """)
-    st.link_button(label="Green500", url="https://top500.org/lists/green500/", icon="🌿")
+    st.link_button(label="Green500 Dataset", url="https://top500.org/lists/green500/", icon="🌿")

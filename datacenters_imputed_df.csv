@@ -1,0 +1,192 @@
+country,cooling_technologies_common,total_data_centers,hyperscale_data_centers,colocation_data_centers,floor_space_sqft_total,power_capacity_MW_total,average_renewable_energy_usage_percent,internet_penetration_percent,growth_rate_of_data_centers_percent_per_year,region
+United States,"Air, Liquid, Immersion",5426,300,2000,3552000000.0,12000.0,27.0,93,12.0,North America
+Germany,"Air, Indirect Evap.",529,50,200,350000000.0,2000.0,40.0,94,8.0,Europe
+United Kingdom,"Air, Free Cooling",523,30,150,200000000.0,1000.0,0.45,96,7.0,Europe
+China,"Air, Liquid",449,100,1000,500000000.0,8000.0,0.25,96,15.0,Asia
+France,"Air, Liquid",322,20,110,120000000.0,700.0,40.0,89,6.0,Europe
+Canada,"Air, Liquid, Free Cooling",336,15,100,90000000.0,500.0,0.78,94,9.0,North America
+Australia,"Air, Liquid, Free Cooling",314,20,80,40000000.0,1200.0,0.3,97,10.0,Oceania
+Netherlands,"Air, Liquid, Free Cooling",298,15,90,35000000.0,700.0,0.9,97,8.0,Europe
+Russia,"Air, Liquid",251,10,60,20000000.0,400.0,0.15,94,6.0,Europe
+Japan,"Air, Liquid, Immersion",222,20,80,50000000.0,1000.0,0.25,87,7.0,Asia
+Brazil,"Air, Liquid",196,10,100,20000000.0,800.0,0.25,84,12.0,Latin America
+Singapore,"Liquid, Air, Immersion",99,15,60,30000000.0,500.0,0.95,94,6.0,Asia
+South Africa,"Air, Liquid",61,5,30,10000000.0,200.0,0.3,76,10.0,Africa
+India,"Air, Liquid",99,10,50,50000000.0,400.0,0.15,56,18.0,Asia
+Mexico,"Air, Liquid",173,8,32,14000000.0,300.0,45.0,81,14.0,North America
+Sweden,"Air, Liquid, Free Cooling",95,6,40,12000000.0,250.0,0.98,96,8.0,Europe
+Indonesia,"Air, Liquid",84,3,30,8000000.0,150.0,0.2,73,15.0,Asia
+Spain,"Air, Liquid, Free Cooling",143,5,50,10000000.0,200.0,0.35,96,7.0,Europe
+Poland,"Air, Liquid",144,4,40,8000000.0,120.0,0.25,89,9.0,Europe
+Switzerland,"Air, Liquid, Free Cooling",121,5,30,7000000.0,110.0,0.8,97,7.0,Europe
+Afghanistan,,2,0,2,10000.0,1270.0,50.0,18,341.8,Asia
+Albania ,,3,0,3,71100.0,2730.0,100.0,83,6.0,Europe
+Algeria,,5,0,5,18300.0,150.0,60.0,77,8.0,Africa
+Andorra,,1,0,1,1830.0,20.0,18.12,95,7.0,Europe
+Angola,,4,0,4,108300.0,90.0,47.52,45,15.0,Africa
+Antigua and Barbuda,,1,0,1,5000.0,10.0,67.82,78,371.3,Latin America
+Argentina,,34,0,34,721000.0,100.0,40.86,90,10.0,Latin America
+Armenia,,6,0,6,26748.0,60.0,51.02,80,12.0,Asia
+Austria,,68,0,68,720000.0,450.0,0.476,95,5.0,Europe
+Azerbaijan,,3,0,3,18534.0,60.0,43.44,89,7.0,Asia
+Bahamas,,3,0,3,40000.0,20.0,57.0,95,446.0,Latin America
+Bahrain,,5,0,5,129000.0,110.0,18.12,100,10.7,Middle East
+Bangladesh,,20,0,16,300000.0,180.0,51.02,45,30.0,Asia
+Barbados,,3,0,3,40000.0,30.0,63.18,80,672.0,Latin America
+Belarus,,6,0,6,882641.0,200.0,17.96,94,8.0,Europe
+Belgium,,32,0,32,1245085.0,300.0,0.356,96,4.0,Europe
+Belize,,1,0,1,5000.0,15.0,50.0,72,632.6,Latin America
+Benin,,4,0,4,12000.0,8.0,40.0,32,663.8,Africa
+Bhutan,,3,0,3,2500.0,20.0,80.14,88,582.0,Asia
+Bolivia,,3,0,3,137800.0,90.0,51.02,70,10.0,Latin America
+Bosnia and Herzegovina,,2,0,2,11711.0,10.0,61.28,86,794.0,Europe
+Botswana,,5,0,5,35200.0,5.0,22.9,81,10.0,Africa
+Brunei,,1,0,1,51000.0,22.0,18.12,99,15.0,Asia
+Bulgaria,,27,0,27,1245085.0,546.0,37.96,82,4.0,Europe
+Burkina Faso,,3,0,3,281991.0,0.6,13.98,17,10.0,Africa
+Burundi,,2,0,2,6308.0,32.2,19.8,11,317.6,Africa
+Cambodia,,5,0,5,206000.0,22.0,18.12,61,12.0,Asia
+Cameroon,,2,0,2,14234.0,0.8,19.0,42,8.0,Africa
+Cape Verde,,1,0,1,20600.0,5.0,71.86,74,546.0,Africa
+Central African Republic,,0,0,0,0.0,0.0,45.7,8,460.0,Africa
+Chad,,2,0,2,20000.0,33.2,22.54,13,5.8,Africa
+Chile,,31,0,31,720630.0,546.0,37.96,94,7.0,Latin America
+Colombia,,31,0,31,720630.0,546.0,37.96,77,7.0,Latin America
+Comoros,,1,0,1,15200.0,5.4,19.14,31,304.0,Africa
+"Congo, Democratic Republic of the",,2,0,2,27878.0,33.2,22.54,31,10.0,Africa
+"Congo, Republic of the",,2,0,2,3710.0,33.2,24.72,38,8.0,Africa
+Costa Rica,,10,0,10,292761.0,546.0,37.96,85,10.0,Latin America
+Côte d’Ivoire,,5,0,5,146763.0,0.8,16.58,41,12.0,Africa
+Croatia,,18,0,18,101756.0,546.0,37.96,84,5.0,Europe
+Cuba,,1,0,1,57000.0,17.0,68.82,71,804.0,Latin America
+Cyprus,,2,0,2,13000.0,546.0,37.96,91,8.0,Europe
+Czechia,,36,0,36,355000.0,596.0,38.156,88,6.0,Europe
+Denmark,,42,0,42,1100000.0,72.0,0.356,100,9.5,Europe
+Djibouti,,1,0,1,1605200.0,30.8,50.2,65,10.0,Africa
+Dominica,,1,0,1,159000.0,6.4,46.0,84,340.2,Latin America
+Dominican Republic,,1,0,1,2404.0,1.6,51.02,91,7.0,Latin America
+Ecuador,"Air cooling, some energy-efficient",7,0,4,32500.0,5.0,32.5,77,400.0,Latin America
+Egypt,"Air cooling, some energy-efficient",7,0,4,32500.0,5.0,32.5,73,8.5,Middle East
+El Salvador,Air cooling,3,0,3,22500.0,3.0,25.0,68,6.5,Latin America
+Equatorial Guinea,Air cooling,1,0,1,7500.0,1.0,12.0,60,300.0,Africa
+Eritrea,Air cooling,1,0,1,6000.0,1.0,10.0,20,200.0,Africa
+Estonia,Air and liquid cooling,12,1,7,65000.0,20.0,45.0,92,800.0,Europe
+Eswatini,Air cooling,2,0,1,8000.0,1.0,10.0,58,300.0,Africa
+Ethiopia,Air cooling,2,0,2,12000.0,3.0,15.0,17,400.0,Africa
+Fiji,Air cooling,2,0,1,7000.0,1.0,20.0,79,300.0,Oceania
+Finland,Air and liquid cooling,25,4,15,120000.0,90.0,60.0,94,1200.0,Europe
+Gabon,Air cooling,3,0,2,10000.0,3.0,15.0,72,400.0,Africa
+Gambia,Air cooling,2,0,1,7000.0,1.0,12.0,46,300.0,Africa
+Georgia,"Air-economizer, precision AC, evaporative cooling",8,0,7,695000.0,20.0,82.0,82,12.5,Asia
+Ghana,"Air cooling, precision AC, diesel backup",7,0,6,40000.0,15.0,70.0,70,1000.0,Africa
+Greece,"Air cooling, precision AC, economizers",15,1,15,250000.0,57.0,82.0,86,1400.0,Europe
+Grenada,"Air cooling, small precision AC",0,0,0,0.0,0.0,74.0,74,500.0,Latin America
+Guatemala,"Air cooling, precision AC, generators",5,0,5,40000.0,5.0,70.0,56,600.0,Latin America
+Guinea,"Air cooling, precision AC, generators",1,0,1,10000.0,1.0,33.9,27,800.0,Africa
+Guinea-Bissau,"Air cooling, small precision AC",0,0,0,0.0,0.0,32.5,32,300.0,Africa
+Guyana,"Air cooling, small precision AC, satellite backup",0,0,0,0.0,0.0,37.0,82,1500.0,Latin America
+Haiti,"Air cooling, small precision AC, satellite backup",0,0,0,0.0,0.0,39.0,39,800.0,Latin America
+Honduras,"Air cooling, precision AC, generators",4,0,4,10000.0,2.0,66.0,58,800.0,Latin America
+Hungary,"Air cooling, precision AC, economizers, microgrids",19,0,19,150000.0,80.0,25.0,94,480.0,Europe
+Iceland,"Ambient free cooling, precision AC, geothermal exchange",3,0,3,64583.0,200.0,100.0,100,1200.0,Europe
+Iran,"Air cooling, precision AC, generators, modular setups",20,0,20,50000.0,50.0,25.0,80,710.0,Middle East
+Iraq,"Air cooling, precision AC, generators, modular setups",4,0,4,20000.0,12.0,79.0,82,710.0,Middle East
+Ireland,"Air cooling, precision AC, economizers, on-site batteries/gas gen",80,0,37,150000.0,710.0,69.0,96,410.0,Europe
+Israel,"Air cooling, precision AC, economy chillers, N+1 redundancy, microgrids",31,0,31,500000.0,250.0,12.0,88,1300.0,Middle East
+Italy,"Air cooling, precision AC, economizers, microgrids, closed‑loop & liquid cooling",168,12,52,3940000.0,513.0,41.0,89,3000.0,Europe
+Jamaica,"Air cooling, small precision AC, seawater cooling pilot",2,0,2,13000.0,3.0,46.0,89,500.0,Latin America
+Jordan,"Air cooling, precision AC, generators, modular racks",4,0,4,30000.0,15.0,92.0,93,700.0,Middle East
+Kazakhstan,"Air cooling, precision AC, generators, modular racks",6,0,6,40000.0,15.0,93.0,93,700.0,Asia
+Kenya,"Air cooling, precision AC, adiabatic/liquid cooling pilots, modular setups",14,0,11,112000.0,20.0,41.0,35,1200.0,Africa
+Kiribati,"Satellite (GEO, HTS), early Starlink LEO",0,0,0,0.0,0.0,60.0,88,500.0,Oceania
+"Korea, North","Satellite and intranet Wi‑Fi (Mirae), 3G/4G intranet",0,0,0,0.0,0.0,1.0,0,500.0,Asia
+"Korea, South","Air cooling, precision & liquid cooling, economizers, on-site batteries/microgrids",35,6,35,2898200.0,710.0,20.0,98,860.0,Asia
+Kuwait,"Air cooling, precision & liquid cooling, economizers, on-site batteries/microgrids",35,6,35,2898200.0,710.0,20.0,100,860.0,Middle East
+Kyrgyzstan,"Air cooling, precision AC, generators, modular racks",1,0,1,10000.0,2.0,88.5,88,800.0,Asia
+Laos,"Air cooling, precision AC, modular setups, satellite fallback",3,0,2,20000.0,5.0,79.0,64,1000.0,Asia
+Latvia,"Air cooling, precision AC, liquid‑cooling pilots (DEAC), economizers",25,0,9,270000.0,120.0,42.0,93,650.0,Europe
+Lebanon,"Air cooling, satellite fallback, basic 3G/4G rigs",4,0,3,0.0,0.0,92.0,83,800.0,Middle East
+Lesotho,"Air cooling, basic precision AC, backup generators, modular prefab",2,0,2,3000.0,1.0,47.0,48,8.0,Africa
+Liberia,"Air cooling, satellite fallback, CDMA/4G cell, micro-POP hubs",0,0,0,0.0,0.0,32.0,23,600.0,Africa
+Libya,"Air cooling, precision AC, generators, modular setups",6,0,6,62534.8,17.4,88.0,88,700.0,Middle East
+Liechtenstein,"Air cooling, precision AC, economizers, underground fiber loops",5,0,5,4300.0,2.0,97.0,97,500.0,Europe
+Lithuania,"Air cooling, precision & liquid cooling, economizers, free ambient cooling",20,0,12,300000.0,150.0,76.0,89,1200.0,Europe
+Luxembourg,"Air cooling, free cooling, biomass cogeneration, waste heat reuse",16,0,15,300000.0,150.0,100.0,99,1500.0,Europe
+Madagascar,"Mobile 3G/4G, satellite, Wi-Fi hotspots",0,0,0,0.0,0.0,0.0,20,0.0,Africa
+Malawi,"Mobile 3G/4G, satellite, Wi-Fi hotspots",1,0,0,0.0,0.0,0.0,18,0.0,Africa
+Malaysia,"Air cooling, liquid cooling, free cooling, solar, battery storage",34,0,34,2800000.0,566.0,100.0,98,1300.0,Asia
+Maldives,"Mobile 3G/4G/5G, fiber, satellite",1,0,1,0.0,0.0,0.0,85,0.0,Asia
+Mali,"Mobile 3G/4G, satellite, Wi-Fi hotspots",2,0,2,0.0,0.0,0.0,35,0.0,Africa
+Malta,"Mobile 3G/4G/5G, fiber, satellite",3,0,3,0.0,0.0,0.0,92,0.0,Europe
+Marshall Islands,"Mobile 2G/3G/4G, satellite",0,0,0,0.0,0.0,0.0,66,5.0,Oceania
+Mauritania,"Mobile 3G/4G, fiber, satellite",1,0,0,0.0,0.0,0.0,37,290.0,Africa
+Mauritius,"Mobile 3G/4G/5G, fiber, satellite",10,0,10,0.0,0.0,0.0,80,0.0,Africa
+Micronesia,"Mobile 3G/4G, satellite",1,0,0,0.0,0.0,0.0,39,0.0,Oceania
+Moldova,"Mobile 3G/4G/5G, fiber, satellite",7,0,7,0.0,0.0,0.0,80,0.0,Europe
+Monaco,"Mobile 4G/5G, fiber",3,0,3,0.0,0.0,0.0,99,0.0,Europe
+Mongolia,"Mobile 3G/4G/5G, fiber, satellite",3,0,3,0.0,0.0,0.0,83,0.0,Asia
+Montenegro,"Mobile 4G/5G, fiber, local IXP cache/Satellite fallback",0,0,0,0.0,0.0,89.8,89,0.0,Europe
+Morocco,"Air cooling, precision AC, economizers, solar hybrid pilots",4,0,4,43000.0,25.0,90.0,91,1120.0,Africa
+Mozambique,"Air cooling, precision AC, satellite & fiber backup",7,0,7,22000.0,7.0,0.0,20,1000.0,Africa
+Myanmar,"Air cooling, precision AC, UPS & generator backup",5,0,5,18000.0,4.0,41.0,59,725.0,Asia
+Namibia,"Air cooling, precision AC, UPS/generators, VSAT fallback",2,0,2,12000.0,2.0,64.4,64,480.0,Africa
+Nepal,"Air cooling, precision AC, UPS/generators, free cooling pilots",7,0,7,28000.0,4.0,50.0,56,725.0,Asia
+New Zealand,"Air cooling, free cooling, liquid immersion pilots, battery storage support",30,0,30,320000.0,211.0,96.0,96,1334.0,Oceania
+Nicaragua,"Air cooling, in‑row cooling, UPS/gensets, satellite fallback",3,0,3,15000.0,3.0,71.3,58,610.0,Latin America
+Niger,"Air cooling, satellite fallback, basic UPS/gensets",1,0,1,5000.0,2.0,0.0,23,0.0,Africa
+Nigeria,"Air cooling, precision AC, UPS/gensets, VSAT fallback",17,0,17,430000.0,137.0,48.2,39,1580.0,Africa
+North Macedonia,"Air cooling, precision AC, generators, regional free/ambient cooling",5,0,5,50000.0,20.0,92.0,87,790.0,Europe
+Norway,"Air cooling, free/fjord cooling, liquid immersion pilots, heat-recovery to district heating, biomass cogeneration",26,0,26,3000000.0,501.0,98.0,99,1029.0,Europe
+Oman,"Air cooling, water-chillers, CRAC/CRAH, 5 G-ready infrastructure, UPS/generator backup",6,0,6,94000.0,18.0,95.0,95,1030.0,Middle East
+Pakistan,"Air cooling, precision CRAC/CRAH, UPS/gensets, carrier-neutral VXLAN, solar + backup generators",22,0,22,300000.0,1367.0,48.2,27,441.0,Asia
+Palau,"Mobile 4G, VSAT/satellite, upcoming FTTH pilots",0,0,0,0.0,0.0,57.5,27,1840.0,Oceania
+Panama,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling pilots",8,0,8,30000.0,10.0,78.0,69,1170.0,Latin America
+Papua New Guinea,"Mobile 3G/4G, satellite VSAT, basic UPS/generators",2,0,2,10000.0,1.0,24.0,24,180.0,Oceania
+Paraguay,"Air cooling, precision CRAC/CRAH, UPS/gensets, carrier-neutral cache nodes",8,0,8,35000.0,2.0,83.0,82,1280.0,Latin America
+Peru,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling pilots",10,0,10,58000.0,12.0,79.5,82,1560.0,Latin America
+Philippines,"Air cooling, precision CRAC/CRAH, UPS/gensets, liquid cooling pilots, green energy initiatives",21,0,21,2280000.0,497.0,98.0,84,2080.0,Asia
+Portugal,"Air cooling, free cooling, liquid immersion pilots, heat recovery, PPA-backed renewables",10,0,10,326000.0,48.0,85.5,88,2180.0,Europe
+Qatar,"Air cooling, precision CRAC/CRAH, UPS & gensets, AI-optimized cooling pilots, NVidia AI hardware integration",13,0,13,200000.0,120.0,99.0,100,798.0,Middle East
+Romania,"Air cooling, free cooling via ambient, precision CRAC, generator/UPS backups, heat reuse pilots",60,0,60,326000.0,100.0,92.0,91,4900.0,Europe
+Rwanda,"Air cooling, UPS/gensets, satellite/VSAT fallback",4,0,4,8000.0,2.0,38.0,34,210.0,Africa
+Saint Kitts and Nevis,"Air cooling, UPS/gensets, satellite fallback",1,0,1,8000.0,2.0,70.42,76,648.0,Latin America
+Saint Lucia,"Air cooling, UPS/gensets, satellite/VSAT fallback",1,0,1,8000.0,2.0,74.0,70,20.0,Latin America
+Saint Vincent and the Grenadines,"Air cooling, UPS/gensets, satellite/VSAT fallback",1,0,1,8000.0,2.0,77.7,76,50.0,Latin America
+Samoa,"Air cooling, UPS/gensets, VSAT/satellite fallback",2,0,2,10000.0,1.0,75.0,58,1060.0,Oceania
+San Marino,"Air cooling, precision AC, UPS/gensets, fibre‑fed redundancy",1,0,1,5000.0,1.0,34.46,87,0.0,Europe
+Sao Tome and Principe,"Satellite/VSAT, mobile 3G/4G, basic UPS",0,0,0,0.0,0.0,61.5,61,200.0,Africa
+Saudi Arabia,"Air cooling, free/fjord cooling, liquid immersion pilots, AI-optimized cooling, UPS/gensets, heat reuse, solar pilots",36,0,36,1380000.0,345.0,99.0,100,1760.0,Middle East
+Senegal,"Air cooling, precision AC, UPS/gensets, carrier-neutral CLS locations",3,0,3,35000.0,12.0,60.6,61,230.0,Africa
+Serbia,"Air cooling, CRAC/CRAH, UPS/gensets, free cooling pilots",13,0,13,300000.0,100.0,88.0,88,510.0,Europe
+Seychelles,"Air cooling, UPS/gensets, VSAT/satellite fallback",1,0,1,5000.0,1.0,87.4,87,190.0,Africa
+Sierra Leone,"Air cooling, UPS/gensets, VSAT/fiber fallback, Starlink",1,0,1,8000.0,1.0,4.0,21,0.0,Africa
+Slovakia,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling pilots",13,0,13,137674.0,30.0,92.0,90,550.0,Europe
+Slovenia,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling pilots",21,0,21,137674.0,30.0,92.0,91,700.0,Europe
+Solomon Islands,"Air cooling, UPS/gensets, VSAT/satellite backhaul, eCentre cable module",1,0,1,8000.0,1.0,2.0,42,400.0,Oceania
+Somalia,"Air cooling, UPS/gensets, solar power, carrier-neutral fiber hubs, VSAT/Starlink fallback",11,0,11,35000.0,10.0,55.2,28,350.0,Africa
+South Sudan,"Air cooling, UPS/gensets, solar-powered towers, VSAT/Starlink fallback, carrier-neutral fibre hub",1,0,1,8000.0,1.0,0.0,9,800.0,Africa
+Sri Lanka,"Air cooling, precision CRAC/CRAH, free cooling pilots, upcoming liquid immersion, UPS/gensets",4,0,4,95000.0,25.0,90.0,51,745.0,Asia
+Sudan,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup",3,0,3,24000.0,15.0,28.7,26,160.0,Africa
+Suriname,"Air cooling, UPS/N+1 generators, HVAC, fire suppression/argon systems, redundant cabling",1,0,1,10000.0,1.0,78.4,78,90.0,Latin America
+Syria,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup",2,0,2,16000.0,1.0,35.8,35,280.0,Middle East
+Tajikistan,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup",1,0,1,10000.0,1.0,56.8,57,90.0,Asia
+Tanzania,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup",3,0,3,30000.0,3.0,36.3,29,400.0,Africa
+Timor-Leste,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup",1,0,1,10000.0,1.0,44.3,34,600.0,Asia
+Togo,"Air cooling, UPS/gensets, VSAT/Starlink fallback, mobile tower solar backup",1,0,1,10000.0,1.0,37.0,37,300.0,Africa
+Tonga,"Air cooling, UPS/gensets, VSAT/Starlink backup, cable landing eCentre module",1,0,1,8000.0,1.0,58.5,59,40.0,Oceania
+Trinidad and Tobago,"Air cooling, precision CRAC, UPS/gensets, HFC & fiber backbone redundancy",5,0,5,60000.0,15.0,84.7,85,230.0,Latin America
+Tunisia,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling, power redundancy pilots",6,0,6,180000.0,60.0,66.8,72,1010.0,Middle East
+Türkiye,"Air cooling, precision CRAC/CRAH, free‑cooling, waste‑heat capture pilots, UPS/gensets, emerging liquid immersion/Grid‑PPA renewables",32,0,32,320000.0,120.0,50.0,87,650.0,Europe
+Turkmenistan,"Air cooling, UPS/gensets, satellite/VSAT fallback, containerized colocation module",1,0,1,8000.0,1.0,34.9,21,190.0,Asia
+Tuvalu,"Air cooling, UPS/gensets, VSAT/satellite backhaul, compact containerized eCentre",1,0,1,8000.0,1.0,5.0,74,100.0,Oceania
+Uganda,"Air cooling, precision CRAC, UPS/gensets, solar-powered towers, carrier-neutral fibre, VSAT/Starlink fallback",6,0,6,30000.0,8.0,28.0,9,780.0,Africa
+Ukraine,"Air cooling, precision CRAC/CRAH, UPS/gensets, UPS+backup power banks for home routers, free cooling pilots",55,0,55,320000.0,150.0,82.4,82,955.0,Europe
+United Arab Emirates,"Air cooling, precision CRAC/CRAH, free cooling, immersion pilots, UPS/battery systems, solar PPAs, heat reuse",31,1,31,450000.0,200.0,60.0,100,1760.0,Middle East
+Uruguay,"Air cooling, precision CRAC, UPS/gensets, free cooling pilots, hydroelectric green energy tie-ins, UPS-backed FTTH households",9,0,9,30000.0,35.0,98.0,92,791.0,Latin America
+Uzbekistan,Tier‑III ISP/data‑hub rollouts; some Tier‑IV planning,3,0,3,25000.0,8.0,98.0,89,1400.0,Asia
+Vanuatu,"Air cooling, UPS/gensets, VSAT/Kacific/Starlink backup, containerized eCentre modules",2,0,2,15000.0,2.0,35.0,46,200.0,Oceania
+Venezuela,"Air cooling, UPS/gensets, precision AC in modern colos, backup generators, satellite fallback",6,0,6,50000.0,20.0,44.0,62,300.0,Latin America
+Vietnam,"Air cooling, precision CRAC/CRAH, UPS/gensets, free cooling pilots, AI/immersion-led designs, solar PPA pilots",32,1,32,450000.0,145.0,80.7,84,1790.0,Asia
+Yemen,"Air cooling, UPS/gensets, VSAT/Starlink backup, Satcube backup",1,0,1,8000.0,0.0,45.0,14,0.0,Middle East
+Zambia,"Air cooling, UPS/gensets, VSAT/Starlink fallback, carrier-neutral edge modules",2,0,2,15000.0,3.0,33.0,33,629.0,Africa
+Zimbabwe,"Air cooling, UPS/gensets, precision AC, satellite/Starlink backup",2,0,2,16000.0,5.0,3.0,38,0.0,Africa

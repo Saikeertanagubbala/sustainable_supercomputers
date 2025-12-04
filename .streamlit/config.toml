@@ -1,5 +1,8 @@
- [theme]
-    base="light"
-    backgroundColor="#062237ff"
-    textColor ="#ffffff"
-    secondaryBackgroundColor="darkSeaGreen"
+[theme]
+   base="light"
+   backgroundColor="#062237ff"
+   textColor ="#ffffff"
+   secondaryBackgroundColor="#58BC82"
+
+[server]
+   runOnSave = true
