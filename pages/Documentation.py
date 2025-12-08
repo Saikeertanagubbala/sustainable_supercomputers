@@ -1,8 +1,28 @@
 import streamlit as st
 
 def show():
-    st.subheader("Documentation/Dataset Overview")
-    st.markdown("Two complementary datasets procured from Kaggle to explore the intersection of data center infrastructure and environmental performance.")
+    st.markdown("""
+                ### The Two-Tier Reality of Global Computing
+
+                **The Green500 Dataset** captures the world's most energy-efficient supercomputers — 
+                    representing nations at the **pinnacle of computational achievement**. Only ~30-35 countries 
+                    appear in these rankings.
+
+                **The Data Centers Dataset** provides a **comprehensive view of 191 countries**, showing 
+                infrastructure investment regardless of supercomputing presence.
+
+                **The Gap**: Many countries are building extensive data center infrastructure (colocation, 
+                hyperscale facilities, power capacity) but don't appear in global supercomputing rankings. 
+
+                **Key Questions**:
+                1. **Among the Elite**: What makes supercomputers in top-performing countries more efficient?
+   
+                2. **The Broader Question**: What infrastructure characteristics distinguish countries that 
+                achieve supercomputing excellence from those that don't? (Classification Model on merged data)
+
+                This two-tiered approach reveals both the technological factors driving efficiency AND the 
+                infrastructure prerequisites for entering the global supercomputing arena.
+                """)
     
     # Dataset 1
     st.markdown("### 1. Data Center Infrastructure Dataset")

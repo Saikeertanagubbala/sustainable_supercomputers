@@ -4,8 +4,8 @@ from pages import EDA, Cleaning, Documentation, Modeling
 
 st.set_page_config(page_title="Supercomputing", layout="wide")
 
-st.title("🌎 Sustainable Supercomputing & Data-Center Infrastructure")
-st.write("Gaining a better understanding on **energy-efficient computing**, exploring how modern **supercomputers** and **global data centers** shape sustainability, environmental impact, and responsible digital infrastructure.")
+st.title("🌎 The Global Computing Divide: Elite Efficiency vs. Expanding Infrastructure")
+st.write("Investigating the relationship between **national data center infrastructure** and **supercomputing efficiency achievements**. Analyzing which countries lead in energy-efficient computing (Green500 rankings) versus those investing in foundational digital infrastructure.")
 st.markdown("""
     <style>
     .stButton button {
